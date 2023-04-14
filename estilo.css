@@ -3,7 +3,7 @@
         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         text-align: center;
     font-size: 40px;
-    text-shadow: rgb(129, 159, 225) -3px -1px;
+    text-shadow: #f3a8a8 -3px -1px;
     }
 
    .borda{
@@ -14,10 +14,10 @@ height:500px ;
 position: absolute;
 left:435px;
 top: 70px;
-background-image: url(login\ \(3\).png)
+background-image: url("img/Title\ Page\ \(6\).png");
 
     }  
-
+    
     .email{
         text-align: center;
     }
@@ -40,24 +40,9 @@ position: absolute;
 top: 110px;
 }
 
-.fundo{
-    background-image: url(login\ \(3\).png);
-    backdrop-filter: blur(100px) saturate(150%);
-    position:relative;
-    border-radius:6px;
-    overflow:hidden;
-    -webkit-filter: blur(10px);
-    -moz-filter: blur(10px);
-    -o-filter: blur(10px);
-    -ms-filter: blur(10px);
-    filter: blur(10px);
-    height:630px;
-    width: 100%;
-left: 0;
-right: 0;
-
+.fundo{ 
+background-color: #F29999;
 
   }
-
 
 
